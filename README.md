@@ -1,5 +1,5 @@
 Create a crud operations using spring boot, mysql and  Data JPA ::— 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 
 First we will create different package in our project like entity, controller, service and repository layers. After that different package will be created different classes for each layer.
 
